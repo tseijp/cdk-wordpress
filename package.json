@@ -1,0 +1,9 @@
+{
+  "name": "cdk-wordpress",
+  "version": "1.0.0",
+  "author": "tsei",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cd frontend && yarn dev"
+  }
+}
